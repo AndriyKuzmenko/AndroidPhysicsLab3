@@ -84,4 +84,9 @@ public class MenuActivity extends AppCompatActivity
         Intent si=new Intent(this, MainActivity.class);
         startActivity(si);
     }
+
+    public void results(View view)
+    {
+
+    }
 }
